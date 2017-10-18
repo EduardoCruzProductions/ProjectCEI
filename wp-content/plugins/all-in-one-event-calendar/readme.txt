@@ -2,8 +2,8 @@
 Contributors: uchu, calvinyeh, raquelleira, renatotbueno, domanb, elirenato, hubrik, vtowel, yani.iliev, nicolapeluchetti, jbutkus, lpawlik, bangelov
 Tags: calendar, event, ical, feed, ics, icalendar, sync, aggregator, google, venue, calendar widget, events widget
 Requires at least: 3.5
-Tested up to: 4.8.1
-Stable tag: 2.5.22
+Tested up to: 4.8.2
+Stable tag: 2.5.26
 License: GNU General Public License, version 3 (GPL-3.0)
 
 An events calendar system with multiple views, upcoming events widget, color-coded categories, recurrence, and import/export of .ics feeds.
@@ -128,6 +128,18 @@ https://vimeo.com/135004810
 **[ai1ec exact_date="5-10-2017"]**
 
 == Changelog ==
+
+= Version 2.5.26 =
+* Fixed: Compatibility with PHP < 5.4.
+
+= Version 2.5.25 =
+* Fixed: Compatibility with PHP < 5.4.
+
+= Version 2.5.24 =
+* Added: New samples section to help new calendar users.
+
+= Version 2.5.23 =
+* Fixed: External ticketing URLs was not being presented correctly on imported events.
 
 = Version 2.5.22 =
 * Fixed: On some PHP installations a specific code for exporting events wouldn't work. Thanks to @vralfy.

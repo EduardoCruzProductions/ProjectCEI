@@ -77,6 +77,9 @@ released
 3. Update blog styling issues.
 4. Update parent menu setting.
 
+@Version: 3.1
+1. Remove footer top image.
+2. Fixed styling issues.
 *****************Licence Copyrights Attribution*******************
 childcare WordPress Theme, Copyright 2015 asiathemes
 childcare is distributed under the terms of the GNU GPL
