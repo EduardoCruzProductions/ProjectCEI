@@ -8,3 +8,6 @@ Em 2018, o projeto Impulso do IFPR - Campus Paranavaí e o instituto GRPCOM real
 A iniciativa compunha a criação de um website e treinamentos necessários para a sua utilização.
 
 A tecnologia escolhida para maior facilidade no desenvolvimento e na manutenção do website, foi o CMS Wordpress.
+
+O site encontra-se disponível no link a seguir:
+http://ceiinfanciafeliz.com/
